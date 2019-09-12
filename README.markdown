@@ -1,5 +1,11 @@
 A [Giter8][g8] template for a simple Scala Akka Streams project
 
+Usage
+=====
+
+    > sbt new ecartner/akka-streams.g8
+
+
 Template license
 ----------------
 Written in 2019 by Eric Cartner 
